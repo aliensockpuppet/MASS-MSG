@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "massmsg",
+  "version": "${version}",
+  "name": "MassMsg",
+  "description": "Sends a private /msg to every online player except those on the exempt list.",
+  "authors": ["aliensockpuppet"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["net.massmsg.MassMsgClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
