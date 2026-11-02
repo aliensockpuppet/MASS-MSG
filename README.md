@@ -6,6 +6,9 @@ one at a time, except the players on your exempt list.
 - Minecraft 1.21.11, Fabric Loader 0.16.14 or newer, Fabric API, Java 21
 - Client only. The server does not need it.
 
+**Download:** [releases/massmsg-1.0.6.jar](releases/massmsg-1.0.6.jar). Put it in your
+`.minecraft/mods` folder with Fabric API.
+
 ## Commands
 
 | Command | What it does |
